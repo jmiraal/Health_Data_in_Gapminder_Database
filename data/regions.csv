@@ -1,0 +1,198 @@
+﻿country,four_regions,eight_regions,six_regions,nine_regions
+Algeria,africa,africa_north,middle_east_north_africa,africa_north
+Djibouti,africa,africa_north,middle_east_north_africa,africa_north
+Egypt,africa,africa_north,middle_east_north_africa,africa_north
+Libya,africa,africa_north,middle_east_north_africa,africa_north
+Morocco,africa,africa_north,middle_east_north_africa,africa_north
+Tunisia,africa,africa_north,middle_east_north_africa,africa_north
+Angola,africa,africa_sub_saharan,sub_saharan_africa,africa_sub_saharan
+Benin,africa,africa_sub_saharan,sub_saharan_africa,africa_sub_saharan
+Botswana,africa,africa_sub_saharan,sub_saharan_africa,africa_sub_saharan
+Burkina Faso,africa,africa_sub_saharan,sub_saharan_africa,africa_sub_saharan
+Burundi,africa,africa_sub_saharan,sub_saharan_africa,africa_sub_saharan
+Cameroon,africa,africa_sub_saharan,sub_saharan_africa,africa_sub_saharan
+Cape Verde,africa,africa_sub_saharan,sub_saharan_africa,africa_sub_saharan
+Central African Republic,africa,africa_sub_saharan,sub_saharan_africa,africa_sub_saharan
+Chad,africa,africa_sub_saharan,sub_saharan_africa,africa_sub_saharan
+Comoros,africa,africa_sub_saharan,sub_saharan_africa,africa_sub_saharan
+"Congo, Dem. Rep.",africa,africa_sub_saharan,sub_saharan_africa,africa_sub_saharan
+"Congo, Rep.",africa,africa_sub_saharan,sub_saharan_africa,africa_sub_saharan
+Cote d'Ivoire,africa,africa_sub_saharan,sub_saharan_africa,africa_sub_saharan
+Equatorial Guinea,africa,africa_sub_saharan,sub_saharan_africa,africa_sub_saharan
+Eritrea,africa,africa_sub_saharan,sub_saharan_africa,africa_sub_saharan
+Ethiopia,africa,africa_sub_saharan,sub_saharan_africa,africa_sub_saharan
+Gabon,africa,africa_sub_saharan,sub_saharan_africa,africa_sub_saharan
+Gambia,africa,africa_sub_saharan,sub_saharan_africa,africa_sub_saharan
+Ghana,africa,africa_sub_saharan,sub_saharan_africa,africa_sub_saharan
+Guinea,africa,africa_sub_saharan,sub_saharan_africa,africa_sub_saharan
+Guinea-Bissau,africa,africa_sub_saharan,sub_saharan_africa,africa_sub_saharan
+Kenya,africa,africa_sub_saharan,sub_saharan_africa,africa_sub_saharan
+Lesotho,africa,africa_sub_saharan,sub_saharan_africa,africa_sub_saharan
+Liberia,africa,africa_sub_saharan,sub_saharan_africa,africa_sub_saharan
+Madagascar,africa,africa_sub_saharan,sub_saharan_africa,africa_sub_saharan
+Malawi,africa,africa_sub_saharan,sub_saharan_africa,africa_sub_saharan
+Mali,africa,africa_sub_saharan,sub_saharan_africa,africa_sub_saharan
+Mauritania,africa,africa_sub_saharan,sub_saharan_africa,africa_sub_saharan
+Mauritius,africa,africa_sub_saharan,sub_saharan_africa,africa_sub_saharan
+Mozambique,africa,africa_sub_saharan,sub_saharan_africa,africa_sub_saharan
+Namibia,africa,africa_sub_saharan,sub_saharan_africa,africa_sub_saharan
+Niger,africa,africa_sub_saharan,sub_saharan_africa,africa_sub_saharan
+Nigeria,africa,africa_sub_saharan,sub_saharan_africa,africa_sub_saharan
+Rwanda,africa,africa_sub_saharan,sub_saharan_africa,africa_sub_saharan
+Sao Tome and Principe,africa,africa_sub_saharan,sub_saharan_africa,africa_sub_saharan
+Senegal,africa,africa_sub_saharan,sub_saharan_africa,africa_sub_saharan
+Seychelles,africa,africa_sub_saharan,sub_saharan_africa,africa_sub_saharan
+Sierra Leone,africa,africa_sub_saharan,sub_saharan_africa,africa_sub_saharan
+Somalia,africa,africa_sub_saharan,sub_saharan_africa,africa_sub_saharan
+South Africa,africa,africa_sub_saharan,sub_saharan_africa,africa_sub_saharan
+South Sudan,africa,africa_sub_saharan,sub_saharan_africa,africa_sub_saharan
+Sudan,africa,africa_sub_saharan,sub_saharan_africa,africa_sub_saharan
+Swaziland,africa,africa_sub_saharan,sub_saharan_africa,africa_sub_saharan
+Tanzania,africa,africa_sub_saharan,sub_saharan_africa,africa_sub_saharan
+Togo,africa,africa_sub_saharan,sub_saharan_africa,africa_sub_saharan
+Uganda,africa,africa_sub_saharan,sub_saharan_africa,africa_sub_saharan
+Zambia,africa,africa_sub_saharan,sub_saharan_africa,africa_sub_saharan
+Zimbabwe,africa,africa_sub_saharan,sub_saharan_africa,africa_sub_saharan
+Antigua and Barbuda,americas,america_north,america,america_central
+Bahamas,americas,america_north,america,america_central
+Barbados,americas,america_north,america,america_central
+Belize,americas,america_north,america,america_central
+Costa Rica,americas,america_north,america,america_central
+Cuba,americas,america_north,america,america_central
+Dominica,americas,america_north,america,america_central
+Dominican Republic,americas,america_north,america,america_central
+El Salvador,americas,america_north,america,america_central
+Grenada,americas,america_north,america,america_central
+Guatemala,americas,america_north,america,america_central
+Honduras,americas,america_north,america,america_central
+Jamaica,americas,america_north,america,america_central
+Panama,americas,america_north,america,america_central
+St. Kitts and Nevis,americas,america_north,america,america_central
+St. Lucia,americas,america_north,america,america_central
+St. Vincent and the Grenadines,americas,america_north,america,america_central
+Trinidad and Tobago,americas,america_north,america,america_central
+Canada,americas,america_north,america,america_north
+Haiti,americas,america_north,america,america_central
+Mexico,americas,america_north,america,america_north
+Nicaragua,americas,america_north,america,america_central
+United States,americas,america_north,america,america_north
+Argentina,americas,america_south,america,america_south
+Bolivia,americas,america_south,america,america_south
+Brazil,americas,america_south,america,america_south
+Chile,americas,america_south,america,america_south
+Colombia,americas,america_south,america,america_south
+Ecuador,americas,america_south,america,america_south
+Guyana,americas,america_south,america,america_south
+Paraguay,americas,america_south,america,america_south
+Peru,americas,america_south,america,america_south
+Suriname,americas,america_south,america,america_south
+Uruguay,americas,america_south,america,america_south
+Venezuela,americas,america_south,america,america_south
+Afghanistan,asia,asia_west,south_asia,asia_west
+Bahrain,asia,asia_west,middle_east_north_africa,asia_west
+Bangladesh,asia,asia_west,south_asia,asia_west
+Bhutan,asia,asia_west,south_asia,asia_west
+India,asia,asia_west,south_asia,asia_west
+Iran,asia,asia_west,middle_east_north_africa,asia_west
+Iraq,asia,asia_west,middle_east_north_africa,asia_west
+Israel,asia,asia_west,middle_east_north_africa,asia_west
+Jordan,asia,asia_west,middle_east_north_africa,asia_west
+Kazakhstan,asia,asia_west,europe_central_asia,asia_west
+Kuwait,asia,asia_west,middle_east_north_africa,asia_west
+Kyrgyz Republic,asia,asia_west,europe_central_asia,asia_west
+Lebanon,asia,asia_west,middle_east_north_africa,asia_west
+Maldives,asia,asia_west,south_asia,asia_west
+Nepal,asia,asia_west,south_asia,asia_west
+Oman,asia,asia_west,middle_east_north_africa,asia_west
+Pakistan,asia,asia_west,south_asia,asia_west
+Palestine,asia,asia_west,middle_east_north_africa,asia_west
+Qatar,asia,asia_west,middle_east_north_africa,asia_west
+Saudi Arabia,asia,asia_west,middle_east_north_africa,asia_west
+Sri Lanka,asia,asia_west,south_asia,asia_west
+Syria,asia,asia_west,middle_east_north_africa,asia_west
+Tajikistan,asia,asia_west,europe_central_asia,asia_west
+Turkmenistan,asia,asia_west,europe_central_asia,asia_west
+United Arab Emirates,asia,asia_west,middle_east_north_africa,asia_west
+Uzbekistan,asia,asia_west,europe_central_asia,asia_west
+Yemen,asia,asia_west,middle_east_north_africa,asia_west
+Australia,asia,east_asia_pacific,east_asia_pacific,east_asia_pacific
+Brunei,asia,east_asia_pacific,east_asia_pacific,east_asia_pacific
+Cambodia,asia,east_asia_pacific,east_asia_pacific,east_asia_pacific
+China,asia,east_asia_pacific,east_asia_pacific,east_asia_pacific
+Fiji,asia,east_asia_pacific,east_asia_pacific,east_asia_pacific
+"Hong Kong, China",asia,east_asia_pacific,east_asia_pacific,east_asia_pacific
+Indonesia,asia,east_asia_pacific,east_asia_pacific,east_asia_pacific
+Japan,asia,east_asia_pacific,east_asia_pacific,east_asia_pacific
+Kiribati,asia,east_asia_pacific,east_asia_pacific,east_asia_pacific
+Lao,asia,east_asia_pacific,east_asia_pacific,east_asia_pacific
+Malaysia,asia,east_asia_pacific,east_asia_pacific,east_asia_pacific
+Marshall Islands,asia,east_asia_pacific,east_asia_pacific,east_asia_pacific
+"Micronesia, Fed. Sts.",asia,east_asia_pacific,east_asia_pacific,east_asia_pacific
+Mongolia,asia,east_asia_pacific,east_asia_pacific,east_asia_pacific
+Myanmar,asia,east_asia_pacific,east_asia_pacific,east_asia_pacific
+Nauru,asia,east_asia_pacific,east_asia_pacific,east_asia_pacific
+New Zealand,asia,east_asia_pacific,east_asia_pacific,east_asia_pacific
+North Korea,asia,east_asia_pacific,east_asia_pacific,east_asia_pacific
+Palau,asia,east_asia_pacific,east_asia_pacific,east_asia_pacific
+Papua New Guinea,asia,east_asia_pacific,east_asia_pacific,east_asia_pacific
+Philippines,asia,east_asia_pacific,east_asia_pacific,east_asia_pacific
+Samoa,asia,east_asia_pacific,east_asia_pacific,east_asia_pacific
+Singapore,asia,east_asia_pacific,east_asia_pacific,east_asia_pacific
+Solomon Islands,asia,east_asia_pacific,east_asia_pacific,east_asia_pacific
+South Korea,asia,east_asia_pacific,east_asia_pacific,east_asia_pacific
+Taiwan,asia,east_asia_pacific,east_asia_pacific,east_asia_pacific
+Thailand,asia,east_asia_pacific,east_asia_pacific,east_asia_pacific
+Timor-Leste,asia,east_asia_pacific,east_asia_pacific,east_asia_pacific
+Tonga,asia,east_asia_pacific,east_asia_pacific,east_asia_pacific
+Tuvalu,asia,east_asia_pacific,east_asia_pacific,east_asia_pacific
+Vanuatu,asia,east_asia_pacific,east_asia_pacific,east_asia_pacific
+Vietnam,asia,east_asia_pacific,east_asia_pacific,east_asia_pacific
+Albania,europe,europe_east,europe_central_asia,europe_east
+Armenia,europe,europe_east,europe_central_asia,europe_east
+Azerbaijan,europe,europe_east,europe_central_asia,europe_east
+Belarus,europe,europe_east,europe_central_asia,europe_east
+Bosnia and Herzegovina,europe,europe_east,europe_central_asia,europe_east
+Bulgaria,europe,europe_east,europe_central_asia,europe_east
+Croatia,europe,europe_east,europe_central_asia,europe_east
+Czech Republic,europe,europe_east,europe_central_asia,europe_east
+Estonia,europe,europe_east,europe_central_asia,europe_east
+Finland,europe,europe_east,europe_central_asia,europe_east
+Georgia,europe,europe_east,europe_central_asia,europe_east
+Hungary,europe,europe_east,europe_central_asia,europe_east
+Latvia,europe,europe_east,europe_central_asia,europe_east
+Lithuania,europe,europe_east,europe_central_asia,europe_east
+"Macedonia, FYR",europe,europe_east,europe_central_asia,europe_east
+Moldova,europe,europe_east,europe_central_asia,europe_east
+Montenegro,europe,europe_east,europe_central_asia,europe_east
+Romania,europe,europe_east,europe_central_asia,europe_east
+Russia,europe,europe_east,europe_central_asia,europe_east
+Serbia,europe,europe_east,europe_central_asia,europe_east
+Slovak Republic,europe,europe_east,europe_central_asia,europe_east
+Slovenia,europe,europe_east,europe_central_asia,europe_east
+Turkey,europe,europe_east,europe_central_asia,europe_east
+Ukraine,europe,europe_east,europe_central_asia,europe_east
+Andorra,europe,europe_west,europe_central_asia,europe_west
+Austria,europe,europe_west,europe_central_asia,europe_west
+Belgium,europe,europe_west,europe_central_asia,europe_west
+Cyprus,europe,europe_west,europe_central_asia,europe_west
+Denmark,europe,europe_west,europe_central_asia,europe_west
+France,europe,europe_west,europe_central_asia,europe_west
+Germany,europe,europe_west,europe_central_asia,europe_west
+Greece,europe,europe_west,europe_central_asia,europe_west
+Holy See,europe,europe_west,europe_central_asia,europe_west
+Iceland,europe,europe_west,europe_central_asia,europe_west
+Ireland,europe,europe_west,europe_central_asia,europe_west
+Italy,europe,europe_west,europe_central_asia,europe_west
+Liechtenstein,europe,europe_west,europe_central_asia,europe_west
+Luxembourg,europe,europe_west,europe_central_asia,europe_west
+Malta,europe,europe_west,europe_central_asia,europe_west
+Monaco,europe,europe_west,europe_central_asia,europe_west
+Netherlands,europe,europe_west,europe_central_asia,europe_west
+Norway,europe,europe_west,europe_central_asia,europe_west
+Poland,europe,europe_west,europe_central_asia,europe_west
+Portugal,europe,europe_west,europe_central_asia,europe_west
+San Marino,europe,europe_west,europe_central_asia,europe_west
+Spain,europe,europe_west,europe_central_asia,europe_west
+Sweden,europe,europe_west,europe_central_asia,europe_west
+Switzerland,europe,europe_west,europe_central_asia,europe_west
+United Kingdom,europe,europe_west,europe_central_asia,europe_west
